@@ -1,0 +1,19 @@
+body{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    box-shadow: 0 1px 6px black ;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(#3292a597,#3292a597) , url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
